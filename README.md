@@ -27,8 +27,7 @@ Sou desenvolvedora FullStack Java Junior pela Generation Brazil e estou cursando
   
 
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliana-inocencio&hide_progress=true)](https://github.com/juliana-inocencio/github-readme-stats)
-  	
+
   
   	
   
