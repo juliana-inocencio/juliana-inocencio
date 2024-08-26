@@ -6,27 +6,11 @@ Sou desenvolvedora FullStack Java Junior pela Generation Brazil e estou cursando
  
 ![WhatsApp_Video_2023-04-14_at_10_33_24_AdobeExpress](https://user-images.githubusercontent.com/103137785/232060484-4c95d1d2-6108-4314-aa6b-fe777053c1df.gif)
 
-  ##
-
-  ### Tecnologias e Ferramentas:
-  <div>
-  <img align="center" alt="Ji-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ji-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ji-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ji-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ji-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ji-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ji-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Ji-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Ji-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="Ji-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
  
-  </div>
   
           
   ##
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliana-inocencio)](https://github.com/juliana-inocencio/github-readme-stats)
   	
  
    
